@@ -13,7 +13,7 @@ Initially, I performed a thorough data exploration by loading the dataset and sa
 
 Visualization:
 
-To glean insights into customer behavior, I created histograms depicting the relationship between churn and features such as tenure and monthly charges. This visualization revealed that customers with shorter tenures and higher monthly charges are more likely to churn.
+To gain insights into customer behavior, I created histograms depicting the relationship between churn and features such as tenure and monthly charges. This visualization revealed that customers with shorter tenures and higher monthly charges are more likely to churn.
 
 <img width="677" alt="Screenshot 2024-10-31 at 6 32 19 PM" src="https://github.com/user-attachments/assets/67f6aa46-6670-4cff-8c82-8a8e6f04b5f6">
 
